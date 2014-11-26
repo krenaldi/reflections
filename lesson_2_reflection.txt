@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	It creates the repository by using the git init command
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It’s the place where you add files from the working directory to the repository. 	It let’s you decide which files should be in the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By using the git diff command you can see what changes have been done
